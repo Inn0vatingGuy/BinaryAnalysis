@@ -1,5 +1,5 @@
 # BinaryAnalysis - Banned function finder
-Simple Python script to find banned/insecure APIs in binaires 
+Simple Python script to find banned/insecure APIs in binaires (closed source , without source code) 
 
 Requirement : Install r2pipe 
 
